@@ -1,0 +1,10 @@
+npm install
+npm install vueify
+npm install babel-preset-es2015 --save --no-bin-links
+npm install babel-preset-react --save
+npm install && npm install --legacy-bundling vueify
+npm install -g babel
+npm install babel
+npm install babel-core
+npm install babel-plugin-transform-runtime
+npm install babel-runtime
